@@ -1,0 +1,70 @@
+{
+ "base_path": "/government/consultations/earned-settlement",
+ "title": "Earned settlement",
+ "description": "The government is consulting on how the current settlement system should be reformed and how those reforms should be implemented.",
+ "document_type": "consultation_outcome",
+ "first_published_at": "2025-11-20T12:14:32+00:00",
+ "public_updated_at": "2026-11-02T16:09:05+00:00",
+ "links": {
+  "organisations": [
+   {
+    "title": "Home Office"
+   },
+   {
+    "title": "Department for Culture, Media and Sport"
+   },
+   {
+    "title": "Department for Work and Pensions"
+   },
+   {
+    "title": "HM Treasury"
+   }
+  ]
+ },
+ "details": {
+  "body": "<div class=\"govspeak\"><p>Settlement refers to a person\u2019s right to live in the UK permanently without any immigration restrictions. It is also known as Indefinite Leave to Remain (ILR).</p>\n\n<p>The 2025 UK Immigration White Paper, <a href=\"https://www.gov.uk/government/publications/restoring-control-over-the-immigration-system-white-paper\">Restoring Control over the Immigration System</a>, introduced significant reforms to how migrants can settle in the UK.</p>\n\n<p>Settlement will no longer be granted automatically after a fixed period. Instead, migrants will need to earn it by demonstrating sustained good conduct, contribution and integration.</p>\n\n</div>",
+  "final_outcome_detail": "<div class=\"govspeak\"><p>The government has carefully considered more than 200,000 responses to the consultation, alongside wider stakeholder engagement and the recommendations of Parliamentary committees.</p>\n\n<p>While respondents raised concerns about fairness, complexity and the effect on people already in the UK, there was also support for a system that better recognises contribution, integration and compliance. The government has therefore refined and simplified the framework, while retaining its central principle:  settlement should be earned rather than granted on the basis of time alone.\u00a0</p>\n\n<p>The starting point for settlement will increase from 5 to 10 years. Individuals will be able to qualify sooner where they make a sustained contribution to the UK, while those who break the law or immigration rules may face a longer route or be unable to settle at all. All applicants will also need to meet mandatory requirements relating to character and suitability, government debt, English language, the Life in the UK Test and sustained contribution. However, relevant exemptions will apply, except in relation to criminality.\u00a0\u00a0</p>\n\n<p>In response to the consultation, the government has broadened the range of contributions recognised by the framework, strengthened provisions for families, and introduced targeted protections for vulnerable groups. It has also set out distinct arrangements for refugees and transitional protections for people already in the UK, including care workers and certain health and education workers.\u00a0</p>\n\n<h3 id=\"next-steps\">Next steps</h3>\n\n<p>The next step will be to translate the framework into detailed rules and operational arrangements. Before implementation, the government will publish further technical guidance and a full impact assessment, informed by continued engagement with affected groups and stakeholders. This will provide greater clarity on how the reforms will operate in practice and how people will move into the new system.</p>",
+  "attachments": [
+   {
+    "attachment_type": "html",
+    "command_paper_number": "",
+    "hoc_paper_number": "",
+    "id": "9590699",
+    "title": "A Fairer Pathway to Settlement: statement and accompanying consultation on earned settlement (accessible)",
+    "unnumbered_command_paper": false,
+    "unnumbered_hoc_paper": false,
+    "url": "/government/consultations/earned-settlement/a-fairer-pathway-to-settlement-statement-and-accompanying-consultation-on-earned-settlement-accessible"
+   },
+   {
+    "accessible": true,
+    "attachment_type": "file",
+    "command_paper_number": "CP 1448",
+    "content_type": "application/pdf",
+    "file_size": 907472,
+    "filename": "Command_Paper_final_-_reviewed7.pdf",
+    "hoc_paper_number": "",
+    "id": "9590700",
+    "number_of_pages": 60,
+    "title": "A Fairer Pathway to Settlement: statement and accompanying consultation on earned settlement ",
+    "unnumbered_command_paper": false,
+    "unnumbered_hoc_paper": false,
+    "url": "https://assets.publishing.service.gov.uk/media/691edda450b16caf978153d8/Command_Paper_final_-_reviewed7.pdf"
+   },
+   {
+    "accessible": false,
+    "attachment_type": "file",
+    "command_paper_number": "CP 1707",
+    "content_type": "application/pdf",
+    "file_size": 619521,
+    "filename": "A_Fairer_Pathway_to_Settlement_-_Government_response_to_the_consultation.pdf",
+    "hoc_paper_number": "",
+    "id": "9590701",
+    "number_of_pages": 62,
+    "title": " A Fairer Pathway to Settlement: Government response to the consultation",
+    "unnumbered_command_paper": false,
+    "unnumbered_hoc_paper": false,
+    "url": "https://assets.publishing.service.gov.uk/media/6ae90b0e5b14ba0182a272a4/A_Fairer_Pathway_to_Settlement_-_Government_response_to_the_consultation.pdf"
+   }
+  ]
+ }
+}

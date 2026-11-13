@@ -1,0 +1,53 @@
+{
+ "results": [
+  {
+   "title": "Home Secretary unveils new rules for migrants settling in the UK",
+   "link": "/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk",
+   "description": "Settlement will be earned through contribution and good character.",
+   "public_timestamp": "2026-11-02T16:26:00Z",
+   "organisations": [
+    {
+     "title": "Home Office"
+    }
+   ],
+   "content_store_document_type": "news_story",
+   "es_score": 0.7510474
+  },
+  {
+   "title": "Earned settlement",
+   "link": "/government/speeches/home-secretary-earned-settlement-statement",
+   "description": "Home Secretary Shabana Mahmood's statement on earned settlement.",
+   "public_timestamp": "2026-11-02T16:53:00Z",
+   "organisations": [
+    {
+     "title": "Home Office"
+    }
+   ],
+   "content_store_document_type": "oral_statement",
+   "es_score": 0.50606304
+  },
+  {
+   "title": "Earned settlement",
+   "link": "/government/consultations/earned-settlement",
+   "description": "The government is consulting on how the current settlement system should be reformed and how those reforms should be implemented.",
+   "public_timestamp": "2026-11-02T16:09:05Z",
+   "organisations": [
+    {
+     "title": "Home Office"
+    },
+    {
+     "title": "Department for Culture, Media and Sport"
+    },
+    {
+     "title": "Department for Work and Pensions"
+    },
+    {
+     "title": "HM Treasury"
+    }
+   ],
+   "content_store_document_type": "consultation_outcome",
+   "es_score": 0.2985551
+  }
+ ],
+ "total": 12077
+}

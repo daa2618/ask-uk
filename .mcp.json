@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ukdatapy": {
+      "command": ".venv/bin/ukdatapy-mcp"
+    }
+  }
+}

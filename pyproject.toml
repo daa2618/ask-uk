@@ -1,0 +1,30 @@
+[project]
+name = "ukdatapy"
+version = "0.2.0"
+description = "MCP server that lets AI agents search and read UK open data: ONS, London Datastore and data.gov.uk."
+authors = [{ name = "Dev Anbarasu" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.12,<4.0"
+dependencies = ["requests (>=2.34.2,<3)", "urllib3 (>=2,<3)", "beautifulsoup4 (>=4.15,<5)", "openpyxl (>=3.1.5,<4)", "fastmcp (>=4.1,<5)", "xlrd (>=2.0.1,<3)", "pypdf (>=7.0.1,<8.0.0)"]
+
+[project.scripts]
+ukdatapy-mcp = "ukdatapy.server:main"
+
+[tool.poetry]
+packages = [{ include = "ukdatapy" }]
+
+[dependency-groups]
+dev = ["pytest (>=8,<9)", "ruff (>=0.6,<1)", "pyyaml (>=6.0.3,<7)"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+extend-exclude = ["benchmark"]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

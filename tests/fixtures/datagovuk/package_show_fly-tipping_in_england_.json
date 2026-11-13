@@ -1,0 +1,71 @@
+{
+ "help": "https://ckan.publishing.service.gov.uk/api/3/action/help_show?name=package_show",
+ "success": true,
+ "result": {
+  "id": "1388104c-3599-4cd2-abb5-ca8ddeeb4c9c",
+  "isopen": true,
+  "license_id": "uk-ogl",
+  "license_title": "UK Open Government Licence (OGL)",
+  "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "metadata_created": "2013-03-08T01:35:14.066982",
+  "metadata_modified": "2026-03-02T17:20:12.551327",
+  "name": "fly-tipping_in_england_",
+  "notes": "A summary of fly-tipping incidents in England, by local authority.\r\n\r\nSource agency: Environment, Food and Rural Affairs\r\n\r\nDesignation: Official Statistics not designated as National Statistics\r\n\r\nLanguage: English\r\n\r\nAlternative title: Fly tipping in England",
+  "num_resources": 17,
+  "num_tags": 0,
+  "organization": {
+   "name": "department-for-environment-food-and-rural-affairs",
+   "title": "Department for Environment, Food and Rural Affairs"
+  },
+  "owner_org": "a7059f6a-7fb4-4e0f-9c7a-8cd9079780d3",
+  "private": false,
+  "state": "active",
+  "theme-primary": "towns-and-cities",
+  "title": "Fly-tipping in England",
+  "type": "dataset",
+  "url": null,
+  "version": null,
+  "resources": [
+   {
+    "created": "2015-05-20T12:59:28.391804",
+    "format": "HTML",
+    "id": "7b39f2a4-eaec-421d-a7ec-607805f36c78",
+    "last_modified": null,
+    "name": null,
+    "url": "https://www.gov.uk/government/statistics/fly-tipping-in-england"
+   },
+   {
+    "created": "2017-10-24T12:24:21.301327",
+    "format": "HTML",
+    "id": "d6e9bb06-5e76-434b-ad48-d3a128c1e1a9",
+    "last_modified": null,
+    "name": null,
+    "url": "https://www.gov.uk/government/statistical-data-sets/env24-fly-tipping-incidents-and-actions-taken-in-england"
+   },
+   {
+    "created": "2018-01-26T12:48:13.385305",
+    "format": "PDF",
+    "id": "d03f5400-8003-40b3-8b02-604c59dbb566",
+    "last_modified": null,
+    "name": null,
+    "url": "http://data.defra.gov.uk/statistics_2017/EA_actiononillegallydepositedwaste_201112_201617_metadata.pdf"
+   },
+   {
+    "created": "2018-11-16T09:36:40.663856",
+    "format": "PDF",
+    "id": "9d5aa0a2-31e7-4d43-8adf-effdb6f9abed",
+    "last_modified": null,
+    "name": "Flytipping notes on datasets",
+    "url": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/statistics_2024/Flytipping+notes+on+datasets.pdf"
+   },
+   {
+    "created": "2018-11-16T09:36:40.663872",
+    "format": "CSV",
+    "id": "60219bf3-7b1c-4b22-a288-7f8f498586f6",
+    "last_modified": null,
+    "name": "National fly tipping incidents land type 2007-08 to 2024-25",
+    "url": "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/statistics_2024/National+flytipping+incidents_land+type+2007-08+to+2024-25.csv"
+   }
+  ]
+ }
+}

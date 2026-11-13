@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+.DS_Store
+.env
+benchmark/ground_truth/downloads/
+dist/
+benchmark/sessions/
+.claude/settings.local.json

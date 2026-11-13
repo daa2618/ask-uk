@@ -1,0 +1,113 @@
+{
+ "help": "https://ckan.publishing.service.gov.uk/api/3/action/help_show?name=package_search",
+ "success": true,
+ "result": {
+  "count": 227,
+  "results": [
+   {
+    "id": "a9ebec9f-95e0-496a-8e7d-ca2d711e91f8",
+    "isopen": true,
+    "license_id": "uk-ogl",
+    "license_title": "UK Open Government Licence (OGL)",
+    "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "metadata_created": "2017-06-23T16:30:45.646553",
+    "metadata_modified": "2026-07-08T13:31:06.633485",
+    "name": "road-traffic-counts",
+    "notes": "Department for Transport",
+    "num_resources": 1,
+    "num_tags": 0,
+    "organization": {
+     "name": "north-yorkshire-county-council",
+     "title": "North Yorkshire County Council"
+    },
+    "owner_org": "b37eb7e6-9a1a-4fbc-94e5-2d899818b990",
+    "private": false,
+    "state": "active",
+    "theme-primary": "transport",
+    "theme-secondary": [],
+    "title": "Road Traffic Counts",
+    "type": "dataset",
+    "url": "",
+    "version": "",
+    "resources": [
+     {
+      "created": "2015-09-23T13:34:33.306091",
+      "format": "CSV",
+      "id": "eba68811-6dee-46cf-a3fb-3719fd559f76",
+      "last_modified": null,
+      "name": "Round Count Data.",
+      "url": "http://hub.datanorthyorkshire.org/dataset/a9ebec9f-95e0-496a-8e7d-ca2d711e91f8/resource/eba68811-6dee-46cf-a3fb-3719fd559f76/download/northyorkshireroadcount.csv"
+     }
+    ]
+   },
+   {
+    "id": "208c0e7b-353f-4e2d-8b7a-1a7118467acc",
+    "isopen": true,
+    "license_id": "uk-ogl",
+    "license_title": "UK Open Government Licence (OGL)",
+    "license_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "metadata_created": "2010-02-09T16:02:44.684120",
+    "metadata_modified": "2025-06-15T21:22:04.060410",
+    "name": "gb-road-traffic-counts",
+    "notes": "<p>The Department for Transport collects traffic data to produce statistics on the level of traffic on roads in Great Britain.</p>\r\n\r\n<ul>\r\n<li>Summary statistics of road traffic are published on an annual and quarterly basis at <a href=\"https://www.gov.uk/government/collections/road-traffic-statistics\">https://www.gov.uk/government/collections/road-traffic-statistics</a>\r\n</li>\r\n<li>The most user-friendly method to access street-level road traffic estimates, with an interactive mapping tool, is via <a href=\"https://roadtraffic.dft.gov.uk\">https://roadtraffic.dft.gov.uk</a>\r\n</li>\r\n</ul>\r\n\r\n<p>Data are available for each junction to junction link on the major road network (motorways and A roads). Data are also available for the sample of points on the minor road network (B, C and unclassified roads) that are counted each year, and these counts are used to produce estimates of traffic growth on minor roads.</p>\r\n\r\n<p>The data are produced for every year and are in three formats: a) the raw manual count data collected by trained enumerators; b) Annual Average Daily Flows (AADFs) for count points on major roads and minor roads; and c) traffic figures for local authorities and regions.</p>\r\n\r\n<p>An explanatory note (Road traffic data metadata) is available below. A description of how annual road traffic estimates are produced is available at: <a href=\"https://www.gov.uk/government/publications/road-traffic-statistics-guidance\">https://www.gov.uk/government/publications/road-traffic-statistics-guidance</a></p>",
+    "num_resources": 13,
+    "num_tags": 0,
+    "organization": {
+     "name": "department-for-transport",
+     "title": "Department for Transport"
+    },
+    "owner_org": "e4900b3b-a7f8-447a-bd5e-43735f8f1b4a",
+    "private": false,
+    "state": "active",
+    "theme-primary": "transport",
+    "title": "GB Road Traffic Counts",
+    "type": "dataset",
+    "url": null,
+    "version": null,
+    "resources": [
+     {
+      "created": "2014-08-14T16:01:56.868488",
+      "format": "PDF",
+      "id": "211d7d1b-6573-4de2-9dde-3d84ceeb2f61",
+      "last_modified": null,
+      "name": "Road traffic data metadata",
+      "url": "https://storage.googleapis.com/dft-statistics/road-traffic/all-traffic-data-metadata.pdf"
+     }
+    ]
+   },
+   {
+    "id": "a5211a97-52ed-402a-9bcd-190bbd460b4a",
+    "isopen": false,
+    "license_id": null,
+    "license_title": null,
+    "metadata_created": "2025-03-31T16:36:52.424726",
+    "metadata_modified": "2026-09-25T11:51:26.137945",
+    "name": "traffic-count1",
+    "notes": "<dp-prose>\n  <p>Traffic count from 8 counters located around Calderdale. Please note</p>\n  <ul>\n    <li>\n      <p>Sdate - indicates the date and time the count was taken.</p>\n    </li>\n    <li>\n      <p>Cosit - camera ID number which indicates the camera location (see Counter Locations document below).</p>\n    </li>\n    <li>\n      <p>Period - length of time count was taken.</p>\n    </li>\n    <li>\n      <p>LaneNumber - Lane ID number which indicates the number of lanes.</p>\n    </li>\n    <li>\n      <p>LaneDirection - the number of directions the lane or lanes go.</p>\n    </li>\n    <li>\n      <p>Direction - the direction of the lane.</p>\n    </li>\n    <li>\n      <p>Volume - the number of vehicles counted, if the number is negative the count has been discarded.</p>\n    </li>\n    <li>\n      <p>Flag Text - Additional information e.g. roadworks, holiday, etc</p>\n    </li>\n  </ul>\n  <p>The <a href=\"/dashboards/traffic-count/\">Traffic count dashboard</a> is a visualisation of this raw data split by full year count and snapshot count of vehicles at each counter location.</p>\n</dp-prose>",
+    "num_resources": 30,
+    "num_tags": 0,
+    "organization": {
+     "name": "calderdale-metropolitan-borough-council",
+     "title": "Calderdale Metropolitan Borough Council"
+    },
+    "owner_org": "8f45940b-a372-4709-9119-cf19ac249ede",
+    "private": false,
+    "state": "active",
+    "title": "Traffic Count",
+    "type": "dataset",
+    "url": "https://dataworks.calderdale.gov.uk/dataset/traffic-count-e5040",
+    "version": null,
+    "resources": [
+     {
+      "created": "2026-09-25T11:51:26.203470",
+      "format": "XLSX",
+      "id": "63fa7144-889e-463a-87c4-bffc8c444819",
+      "last_modified": null,
+      "name": "Camera Count Locations",
+      "url": "https://dataworks.calderdale.gov.uk/download/e5040/m0r/Camera%20Count%20Locations.xlsx"
+     }
+    ]
+   }
+  ]
+ }
+}

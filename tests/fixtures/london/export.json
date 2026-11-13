@@ -1,0 +1,422 @@
+[
+ {
+  "id": "e1zp8",
+  "slug": "e1zp8",
+  "canonical": "/dataset/land-area-and-population-density-ward-and-borough-e1zp8",
+  "nextReviewDate": null,
+  "createdAt": "2014-01-08T16:03:00.000Z",
+  "updatedAt": "2018-03-05T13:23:49.000Z",
+  "archivedAt": null,
+  "licence": {
+   "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+   "title": "Open Government Licence v3"
+  },
+  "contact": {
+   "email": "datastore@london.gov.uk",
+   "title": "Opinion Research and General Statistics (GLA)"
+  },
+  "description": "<dp-prose>\n  <p>Land area and population density figures for 2001 to 2050 for wards and boroughs. Ward data begins in 2011.</p>\n  <p>Population figure included are GLA estimate (2016-based projections), 2011 Census and ONS Mid-year Estimates.</p>\n  <p>GLA figures are based on <a href=\"/dataset/projections\" target=\"_blank\">GLA population projections</a>. Select which year you require from the drop-down box in the spreadsheet.</p>\n  <p>Inland area takes account of water line. Areas with large bodies of water will have a smaller inland area than total area since some of the area will be water.</p>\n  <p>Land area figures are taken from Ordnance Survey boundaries using MapInfo.</p>\n</dp-prose>",
+  "tags": [
+   "2011-census",
+   "density",
+   "hectares",
+   "land",
+   "wards",
+   "population"
+  ],
+  "topics": [
+   "demographics"
+  ],
+  "parent": "Greater London Authority",
+  "title": "Land Area and Population Density, Ward and Borough",
+  "sharing": "public",
+  "webpage": "https://data.london.gov.uk/dataset/e1zp8",
+  "publisher": "Greater London Authority",
+  "resources": {
+   "77e9257d-ad9d-47aa-aeed-59a00741f301": {
+    "title": "Land Area & Population - Borough (CSV Version)",
+    "description": "",
+    "format": "csv",
+    "temporal_coverage_to": "2050-12",
+    "temporal_coverage_from": "2001-01",
+    "order": 1,
+    "check_hash": "8a1efed9167b99c18ec536f3ec488429",
+    "check_size": 166920,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2018-03-05T10:53:26.000Z",
+    "origin": "london/dataset/e1zp8/2018-03-05T10:53:26/housing-density-borough.csv",
+    "url": "https://data.london.gov.uk/download/e1zp8/77e9257d-ad9d-47aa-aeed-59a00741f301/housing-density-borough.csv",
+    "dataset": "e1zp8",
+    "dataset_slug": "e1zp8",
+    "webpage": "https://data.london.gov.uk/dataset/e1zp8",
+    "id": "77e9257d-ad9d-47aa-aeed-59a00741f301"
+   },
+   "cc4e7e08-3071-488f-bdd9-a62cb1ed1c5c": {
+    "title": "Land Area & Population Density",
+    "description": "",
+    "format": "spreadsheet",
+    "temporal_coverage_to": "2050-12",
+    "temporal_coverage_from": "2001-01",
+    "order": 0,
+    "check_hash": "f80333445a4bc5f58c13cb0f50ba0b6e",
+    "check_size": 1146556,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2019-06-06T12:23:44.000Z",
+    "origin": "london/dataset/e1zp8/2019-06-06T12:23:44/land-area-population-density-london.xlsx",
+    "url": "https://data.london.gov.uk/download/e1zp8/cc4e7e08-3071-488f-bdd9-a62cb1ed1c5c/land-area-population-density-london.xlsx",
+    "dataset": "e1zp8",
+    "dataset_slug": "e1zp8",
+    "webpage": "https://data.london.gov.uk/dataset/e1zp8",
+    "id": "cc4e7e08-3071-488f-bdd9-a62cb1ed1c5c"
+   },
+   "d961f13b-6726-4fa8-823f-03b379429b72": {
+    "title": "Land Area & Population - Ward (CSV Version)",
+    "description": "",
+    "format": "csv",
+    "temporal_coverage_to": "2050-12",
+    "temporal_coverage_from": "2011-01",
+    "order": 2,
+    "check_hash": "0e1ec24802a918412677f9fa82abb5ac",
+    "check_size": 2006779,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2018-03-05T10:54:05.000Z",
+    "origin": "london/dataset/e1zp8/2018-03-05T10:54:05/housing-density-ward.csv",
+    "url": "https://data.london.gov.uk/download/e1zp8/d961f13b-6726-4fa8-823f-03b379429b72/housing-density-ward.csv",
+    "dataset": "e1zp8",
+    "dataset_slug": "e1zp8",
+    "webpage": "https://data.london.gov.uk/dataset/e1zp8",
+    "id": "d961f13b-6726-4fa8-823f-03b379429b72"
+   }
+  },
+  "custom": {
+   "geo": "Ward",
+   "author": "Greater London Authority",
+   "update_frequency": "Annually"
+  }
+ },
+ {
+  "id": "2lzj5",
+  "slug": "2lzj5",
+  "canonical": "/dataset/number-and-density-of-dwellings-by-borough-2lzj5",
+  "nextReviewDate": null,
+  "createdAt": "2015-06-04T10:56:36.000Z",
+  "updatedAt": "2020-06-03T10:17:37.000Z",
+  "archivedAt": null,
+  "licence": {
+   "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+   "title": "Open Government Licence v2"
+  },
+  "contact": {
+   "email": "datastore@london.gov.uk",
+   "title": "Opinion Research and General Statistics (GLA)"
+  },
+  "description": "<dp-prose>\n  <p>Dwelling stock estimates by local authority district since 2001, at 31st March, and density of dwellings per hectare.<br />DCLG: Live tables on dwelling stock<br />Source: Census 2001, Census 2011, Housing Flows Reconciliation, the Greater London Authority and Regional Assembly joint returns.<br />Data from DCLG Table 125<br /><br />Figures from 2001 and 2011 are census figures. All figures from 2002 to 2011 have been revised following the release of the dwelling count from the 2011 census.<br />Data from 2003, 2003 and 2004 contains a number of imputed and adjusted values and should not be considered as robust as subsequent years.<br />National totals are expressed to the nearest thousand dwellings but should not be regarded as accurate to the nearest thousand. District totals are expressed to the nearest ten dwellings but should not be regarded as accurate to the nearest ten.<br /><br />DCLG <a href=\"https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants\">Link</a></p>\n</dp-prose>",
+  "tags": [
+   "density",
+   "houses",
+   "property",
+   "house",
+   "housing",
+   "homes",
+   "dwellings",
+   "properties"
+  ],
+  "topics": [
+   "demographics",
+   "housing"
+  ],
+  "parent": "Ministry of Housing, Communities & Local Government",
+  "title": "Number and Density of Dwellings by Borough",
+  "sharing": "public",
+  "webpage": "https://data.london.gov.uk/dataset/2lzj5",
+  "publisher": "Ministry of Housing, Communities & Local Government",
+  "resources": {
+   "dbdfc0b4-ae9f-4c58-a228-79d05c3a1c8e": {
+    "title": "number-density-dwelling-stock-borough",
+    "description": "",
+    "format": "spreadsheet",
+    "temporal_coverage_to": "2019-03",
+    "temporal_coverage_from": "2001-03",
+    "order": 0,
+    "check_hash": "7e70177106d4e341a670439a87c6e2de",
+    "check_size": 37199,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2020-06-03T10:17:31.000Z",
+    "origin": "london/dataset/2lzj5/2020-06-03T10:17:31/Number_and_density_of_dwellings_by_borough.xlsx",
+    "url": "https://data.london.gov.uk/download/2lzj5/dbdfc0b4-ae9f-4c58-a228-79d05c3a1c8e/Number_and_density_of_dwellings_by_borough.xlsx",
+    "dataset": "2lzj5",
+    "dataset_slug": "2lzj5",
+    "webpage": "https://data.london.gov.uk/dataset/2lzj5",
+    "id": "dbdfc0b4-ae9f-4c58-a228-79d05c3a1c8e"
+   }
+  },
+  "custom": {
+   "geo": "Local Authority"
+  }
+ },
+ {
+  "id": "2jk0d",
+  "slug": "2jk0d",
+  "canonical": "/dataset/jobs-and-job-density-borough-2jk0d",
+  "nextReviewDate": null,
+  "createdAt": "2014-09-16T15:35:13.000Z",
+  "updatedAt": "2026-05-06T08:18:37.131Z",
+  "archivedAt": null,
+  "licence": {
+   "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/",
+   "title": "Open Government Licence v2"
+  },
+  "contact": {
+   "email": "datastore@london.gov.uk",
+   "title": "Greater London Authority"
+  },
+  "description": "<dp-prose>\n  <p>Data shows the number of jobs and job density by borough.</p>\n  <p>The number of jobs in an area is composed of jobs done by residents (of any age) and jobs done by workers (of any age) who commute into the area.</p>\n  <p>Total jobs is a workplace based measure of jobs and comprises:</p>\n  <p>- employees (from the Annual Business Inquiry),</p>\n  <p>- self-employment jobs (from the Annual Population Survey), People who are self-employed in a second job are included in the self-employed totals.</p>\n  <p>- government-supported trainees (from DfES and DWP) and</p>\n  <p>- HM Forces (from MoD).</p>\n  <p>Job density is the number of jobs per resident of working age (male and female: 16-64). For example, a job density of 1.0 would mean that there is one job for every resident of working age in the population.</p>\n  <p>More information on jobs available in <a href=\"/dataset/workplace-employment-sex-and-status-borough\">Workplace Employment by Sex and Status, Borough</a> and modelled estimates and projections of jobs are available in the <a href=\"/dataset/long-term-labour-market-projections/\">GLA Employment Projections.</a> These are considered to be the most accurate jobs estimates at borough level.</p>\n  <p>Download this data from <a href=\"https://www.nomisweb.co.uk/\">NOMIS</a></p>\n</dp-prose>",
+  "tags": [
+   "density",
+   "jobs",
+   "employment",
+   "work",
+   "borough-economic"
+  ],
+  "topics": [
+   "business-and-economy"
+  ],
+  "parent": "Office for National Statistics",
+  "title": "Jobs and Job Density, Borough",
+  "sharing": "public",
+  "webpage": "https://data.london.gov.uk/dataset/2jk0d",
+  "publisher": "Office for National Statistics",
+  "resources": {
+   "116a2961-6c12-4960-ab3a-945c7448a989": {
+    "title": "Jobs and Job Density",
+    "description": "",
+    "format": "spreadsheet",
+    "temporal_coverage_to": "2024-12",
+    "temporal_coverage_from": "2000-01",
+    "order": 0,
+    "check_hash": "9c13a4fda7006dc23be59715998898ba-1",
+    "check_size": 45348,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2026-05-06T08:10:51.000Z",
+    "origin": "london/dataset/2jk0d/2026-05-06T08:10:51/jobs-and-job-density.xlsx",
+    "url": "https://data.london.gov.uk/download/2jk0d/116a2961-6c12-4960-ab3a-945c7448a989/jobs-and-job-density.xlsx",
+    "dataset": "2jk0d",
+    "dataset_slug": "2jk0d",
+    "webpage": "https://data.london.gov.uk/dataset/2jk0d",
+    "id": "116a2961-6c12-4960-ab3a-945c7448a989"
+   },
+   "79e85749-e38d-4bb6-8327-c60c6be27222": {
+    "title": "Jobs and Job Density (Machine Readable)",
+    "description": "",
+    "format": "csv",
+    "temporal_coverage_to": "2024-12",
+    "temporal_coverage_from": "2000-01",
+    "order": 1,
+    "check_hash": "72530294c192f0e3a323bc51b65047f6-1",
+    "check_size": 14098,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2026-05-06T08:18:32.000Z",
+    "origin": "london/dataset/2jk0d/2026-05-06T08:18:32/jobs-and-job-density.csv",
+    "url": "https://data.london.gov.uk/download/2jk0d/79e85749-e38d-4bb6-8327-c60c6be27222/jobs-and-job-density.csv",
+    "dataset": "2jk0d",
+    "dataset_slug": "2jk0d",
+    "webpage": "https://data.london.gov.uk/dataset/2jk0d",
+    "id": "79e85749-e38d-4bb6-8327-c60c6be27222"
+   }
+  },
+  "custom": {
+   "geo": "Local Authority",
+   "author": "Office for National Statistics",
+   "update_frequency": "Annually"
+  }
+ },
+ {
+  "id": "2jkxd",
+  "slug": "2jkxd",
+  "canonical": "/dataset/average-house-prices-by-borough-ward-msoa-and-lsoa-2jkxd",
+  "nextReviewDate": null,
+  "createdAt": "2014-09-04T16:39:58.000Z",
+  "updatedAt": "2018-11-05T09:41:42.000Z",
+  "archivedAt": null,
+  "licence": {
+   "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+   "title": "Open Government Licence v3"
+  },
+  "contact": {
+   "email": "datastore@london.gov.uk",
+   "title": "Greater London Authority"
+  },
+  "description": "<dp-prose>\n  <p>Annual mean and median property prices calculated by the GLA from Price Paid Data published on Land Registry website. Number of property sales also included. Data has been aggregated to Borough, Ward, MSOA, LSOA, Postcode Districts and Postcode Sectors.</p>\n  <p>Caution should be used when analysing figures based on a low number of sales.</p>\n  <p>Price Paid Data provides information on every residential property sale in England and Wales that has been lodged with HM Land Registry for registration. Download full price paid data from the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://data.gov.uk/dataset/land-registry-monthly-price-paid-data\">Land Registry</a>.</p>\n</dp-prose>",
+  "tags": [
+   "camden",
+   "enfield",
+   "brent",
+   "waltham-forest",
+   "kingston-upon-thames",
+   "westminster",
+   "redbridge",
+   "merton",
+   "city-of-london",
+   "harrow",
+   "house-prices",
+   "sutton",
+   "msoa",
+   "local-authority",
+   "lewisham",
+   "ealing",
+   "barnet",
+   "islington",
+   "barking-and-dagenham",
+   "haringey",
+   "croydon",
+   "lambeth",
+   "richmond-upon-thames",
+   "hounslow",
+   "sales",
+   "greenwich",
+   "wandsworth",
+   "southwark",
+   "newham",
+   "wards",
+   "havering",
+   "bromley",
+   "hillingdon",
+   "kensington-and-chelsea",
+   "tower-hamlets",
+   "hackney",
+   "price-paid",
+   "bexley",
+   "property",
+   "hammersmith-and-fulham",
+   "lsoa"
+  ],
+  "topics": [
+   "housing"
+  ],
+  "parent": "HM Land Registry",
+  "title": "Average House Prices by Borough, Ward, MSOA & LSOA",
+  "sharing": "public",
+  "webpage": "https://data.london.gov.uk/dataset/2jkxd",
+  "publisher": "HM Land Registry",
+  "resources": {
+   "59be940c-ffb8-426d-a833-6146ea77de5c": {
+    "title": "Average House Prices - Ward (CSV Version)",
+    "description": "",
+    "format": "csv",
+    "temporal_coverage_to": "2017-12",
+    "temporal_coverage_from": "1995-01",
+    "order": 3,
+    "check_hash": "c0fd11fa1afb288f7a4a7e8ad13aa608",
+    "check_size": 11622697,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2018-08-10T11:13:23.000Z",
+    "origin": "london/dataset/2jkxd/2018-08-10T11:13:23/land-registry-house-prices-ward.csv",
+    "url": "https://data.london.gov.uk/download/2jkxd/59be940c-ffb8-426d-a833-6146ea77de5c/land-registry-house-prices-ward.csv",
+    "dataset": "2jkxd",
+    "dataset_slug": "2jkxd",
+    "webpage": "https://data.london.gov.uk/dataset/2jkxd",
+    "id": "59be940c-ffb8-426d-a833-6146ea77de5c"
+   },
+   "9a92fbaf-c04e-498a-9f8c-6c85f280817e": {
+    "title": "Average House Prices - LSOA (CSV Version)",
+    "description": "",
+    "format": "csv",
+    "temporal_coverage_to": "2017-12",
+    "temporal_coverage_from": "1995-01",
+    "order": 7,
+    "check_hash": "9e7f202ace23a087c26639abfea5605a",
+    "check_size": 88727247,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2018-08-13T10:23:08.000Z",
+    "origin": "london/dataset/2jkxd/2018-08-13T10:23:08/land-registry-house-prices-LSOA.csv",
+    "url": "https://data.london.gov.uk/download/2jkxd/9a92fbaf-c04e-498a-9f8c-6c85f280817e/land-registry-house-prices-LSOA.csv",
+    "dataset": "2jkxd",
+    "dataset_slug": "2jkxd",
+    "webpage": "https://data.london.gov.uk/dataset/2jkxd",
+    "id": "9a92fbaf-c04e-498a-9f8c-6c85f280817e"
+   },
+   "af75f04c-5a21-4ab8-bf7c-aa57b42a84eb": {
+    "title": "Average House Prices - LSOA",
+    "description": "",
+    "format": "spreadsheet",
+    "temporal_coverage_to": "2017-12",
+    "temporal_coverage_from": "1995-01",
+    "order": 6,
+    "check_hash": "b181c1bbdb3eaffdadf4fffa3f340248",
+    "check_size": 13572608,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2018-08-08T11:01:36.000Z",
+    "origin": "london/dataset/2jkxd/2018-08-08T11:01:36/land-registry-house-prices-LSOA.xls",
+    "url": "https://data.london.gov.uk/download/2jkxd/af75f04c-5a21-4ab8-bf7c-aa57b42a84eb/land-registry-house-prices-LSOA.xls",
+    "dataset": "2jkxd",
+    "dataset_slug": "2jkxd",
+    "webpage": "https://data.london.gov.uk/dataset/2jkxd",
+    "id": "af75f04c-5a21-4ab8-bf7c-aa57b42a84eb"
+   }
+  },
+  "custom": {
+   "geo": "Postcode Sector",
+   "author": "Land Registry",
+   "update_frequency": "Annually"
+  }
+ },
+ {
+  "id": "e70wm",
+  "slug": "e70wm",
+  "canonical": "/dataset/hsds-map-e70wm",
+  "nextReviewDate": null,
+  "createdAt": "2026-07-27T09:12:57.681Z",
+  "updatedAt": "2026-07-27T09:13:08.883Z",
+  "archivedAt": null,
+  "licence": null,
+  "contact": {
+   "email": "highstreetsdataservice@london.gov.uk",
+   "title": "High Streets Data Service"
+  },
+  "description": "<dp-prose>\n  <p>Add a description here...</p>\n</dp-prose>",
+  "tags": [],
+  "topics": [
+   "business-and-economy"
+  ],
+  "parent": "",
+  "title": "HSDS Map",
+  "sharing": "public",
+  "webpage": "https://data.london.gov.uk/dataset/e70wm",
+  "publisher": "",
+  "resources": {
+   "3r9": {
+    "title": "2026_HSDS members_map.png",
+    "description": "",
+    "format": "image",
+    "temporal_coverage_to": "",
+    "temporal_coverage_from": "",
+    "order": 0,
+    "check_hash": "3ce3e5105d98fe992e566b3df534da0a-1",
+    "check_size": 237652,
+    "check_http_status": 200,
+    "check_mimetype": null,
+    "check_timestamp": "2026-07-27T09:13:08.000Z",
+    "origin": "london/dataset/e70wm/2026-07-27T09:13:08/2026_HSDS members_map.png",
+    "url": "https://data.london.gov.uk/download/e70wm/3r9/2026_HSDS%20members_map.png",
+    "dataset": "e70wm",
+    "dataset_slug": "e70wm",
+    "webpage": "https://data.london.gov.uk/dataset/e70wm",
+    "id": "3r9"
+   }
+  },
+  "custom": {
+   "geo": "100m Grid Squares",
+   "author": "High Streets Data Service",
+   "update_frequency": "One off"
+  }
+ }
+]

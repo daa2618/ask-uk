@@ -1,0 +1,56 @@
+{
+ "count": 7702,
+ "items": [
+  {
+   "type": "static_adhoc",
+   "cdid": "",
+   "dataset_id": "",
+   "edition": "",
+   "keywords": [],
+   "meta_description": "",
+   "release_date": "2024-05-21T23:00:00.000Z",
+   "summary": "",
+   "title": "Contributions of housing components to the annual CPI inflation rate, January 2015 to April 2024 (percentage points)",
+   "topics": [
+    "1245",
+    "4972"
+   ],
+   "uri": "/economy/inflationandpriceindices/adhocs/2085contributionsofhousingcomponentstotheannualcpiinflationratejanuary2015toapril2024percentagepoints",
+   "canonical_topic": ""
+  },
+  {
+   "type": "timeseries",
+   "cdid": "D7NM",
+   "dataset_id": "MM23",
+   "edition": "",
+   "keywords": [],
+   "meta_description": "",
+   "release_date": "2026-10-20T23:00:00.000Z",
+   "summary": "",
+   "title": "CPI ANNUAL RATE: Goods 2015=100",
+   "topics": [
+    "1245",
+    "4972"
+   ],
+   "uri": "/economy/inflationandpriceindices/timeseries/d7nm/mm23",
+   "canonical_topic": ""
+  },
+  {
+   "type": "timeseries",
+   "cdid": "D7NN",
+   "dataset_id": "MM23",
+   "edition": "",
+   "keywords": [],
+   "meta_description": "",
+   "release_date": "2026-10-20T23:00:00.000Z",
+   "summary": "",
+   "title": "CPI ANNUAL RATE: Services 2015=100",
+   "topics": [
+    "1245",
+    "4972"
+   ],
+   "uri": "/economy/inflationandpriceindices/timeseries/d7nn/mm23",
+   "canonical_topic": ""
+  }
+ ]
+}

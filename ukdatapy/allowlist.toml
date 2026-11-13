@@ -1,0 +1,14 @@
+# Every URL ukdatapy fetches must match this list. Point UKDATAPY_ALLOWLIST at another file to replace it.
+# A host suffix allows that host and its subdomains over https. A URL prefix allows URLs that start with it.
+
+# gov.uk covers ons.gov.uk, data.gov.uk, data.london.gov.uk and publishing.service.gov.uk.
+host_suffixes = ["gov.uk"]
+
+# Cloud buckets that central publishers link from data.gov.uk. One bucket each, never the whole host.
+url_prefixes = [
+    "https://storage.googleapis.com/dft-statistics/",
+    "https://s3.eu-west-1.amazonaws.com/data.defra.gov.uk/",
+    # TfL's bucket listings. The files themselves download from *.data.tfl.gov.uk, inside gov.uk.
+    "https://s3.eu-west-1.amazonaws.com/crowding.data.tfl.gov.uk/",
+    "https://s3.eu-west-1.amazonaws.com/cycling.data.tfl.gov.uk/",
+]
